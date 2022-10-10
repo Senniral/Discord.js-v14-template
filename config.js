@@ -25,10 +25,10 @@ MUSIC: {
     MAX_SEARCH_RESULTS: 5,
     NODES: [
       {
-        host: "54.37.6.86",
+        host: "",
         port: 80,
-        password: "Blacky#9125",
-        identifier: "54.37.6.86",
+        password: "",
+        identifier: "",
         retryDelay: 5000,
         secure: false,
       },
