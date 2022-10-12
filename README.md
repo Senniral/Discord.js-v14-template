@@ -1,2 +1,2 @@
 # DJS V14 basic template
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/https://github.com/discordjs/guide/raw/main/guide/images/branding/banner-blurple-small.png)
