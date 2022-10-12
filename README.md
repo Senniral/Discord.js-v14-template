@@ -1,2 +1,2 @@
 # DJS V14 basic template
-![alt text](http://url/to/https://user-images.githubusercontent.com/60050784/195412192-33853ba3-a5e7-43d2-a199-ffeb537e5ad5.png)
+![djs_logo](https://user-images.githubusercontent.com/60050784/195412588-677afd1b-1226-4baf-8c89-15506040892d.png)
