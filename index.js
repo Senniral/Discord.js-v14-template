@@ -1,5 +1,5 @@
 const { Client, GatewayIntentBits ,REST, SlashCommandBuilder, Routes } = require('discord.js');
-const { clientId, guildId, token } = require('./config.json');
+const { clientId, guildId, token } = require('./config.json'); 
 
 
 const client = new Client({
@@ -43,4 +43,4 @@ client.on('interactionCreate', async interaction => {
   }
 });
 
-client.login(token);
+client.login(process.env.TOKEN);
